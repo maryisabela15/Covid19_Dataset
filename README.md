@@ -1,4 +1,4 @@
-# Data cleaning and analysis with PosgreSQL
+# Data cleaning and analysis with PostgreSQL
 This repository shows two Projects, the first named Project1_Nashville_Housing is about the process of data cleaning.
 On the other hand, the second project, named Project2_Covid19_Data_Exploration is about data exploration and data analysis.
 
